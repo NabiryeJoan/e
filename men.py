@@ -1,3 +1,6 @@
+# When you run this code, it will listen to the microphone input and use the Google Web Speech API (provided by the SpeechRecognition library) to convert the speech to text
+
+
 import speech_recognition as sr
 
 def detect_men_sound():
