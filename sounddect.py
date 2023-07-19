@@ -1,4 +1,5 @@
 # we are trying to make a program that detects sound
+# When you run this code, it will continuously listen to the microphone input and print "Sound detected!" whenever it detects a sound event that surpasses the specified threshold (THRESHOLD). 
 import pyaudio
 import numpy as np
 
