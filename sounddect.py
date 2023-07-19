@@ -1,3 +1,4 @@
+# we are trying to make a program that detects sound
 import pyaudio
 import numpy as np
 
