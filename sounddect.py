@@ -1,5 +1,7 @@
 # we are trying to make a program that detects sound
 # When you run this code, it will continuously listen to the microphone input and print "Sound detected!" whenever it detects a sound event that surpasses the specified threshold (THRESHOLD). 
+# The threshold value can be adjusted to change the sensitivity of sound detection. Higher values make it less sensitive, while lower values make it more sensitive. Keep in mind that ambient noise 
+# or microphone sensitivity may influence the results.
 import pyaudio
 import numpy as np
 
